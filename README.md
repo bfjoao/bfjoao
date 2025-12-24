@@ -1,19 +1,24 @@
 ## Olá! Eu sou o João Barbosa 👋
+`Desenvolvedor Backend`
 
 - 👨🏽‍🎓 Cursando Informática Biomédica na UFCSPA
 - 💻 Trabalhando atualmente com Python, Django, React e PostgreSQL
 
 ##
+`🤖 Linguagens e Tecnologias`
 
-<div style="display: inline_block"><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bfjoao&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfjoao&theme=transparent"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Azure SQL Database" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
 </div>
   
   ##
