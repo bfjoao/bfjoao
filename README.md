@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João Barbosa 👋
 
 - 👨🏽‍🎓 Cursando Informática Biomédica na UFCSPA
-- 💻 Estudando Java, Spring Boot e SQL
+- 💻 Trabalhando atualmente com Python, Django, React e PostgreSQL
 
 ##
 
